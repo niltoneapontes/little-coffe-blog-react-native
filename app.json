@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Aplicativo do meu blog pessoal https://littlecoffee.vercel.app.",
+    "githubUrl": "https://github.com/niltoneapontes/littlecoffeeapp"
   }
 }
